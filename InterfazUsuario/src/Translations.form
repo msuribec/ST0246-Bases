@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="cc" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="trans3" min="-2" pref="188" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Component id="lan3" min="-2" pref="92" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="trans2" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans1" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans4" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans5" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans6" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans7" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans8" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans9" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                              <Component id="trans10" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="lan9" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan8" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan7" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan6" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan4" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan1" alignment="0" pref="92" max="32767" attributes="0"/>
+                              <Component id="lan5" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lan10" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="close" min="-2" pref="177" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="add" alignment="0" min="-2" pref="177" max="-2" attributes="0"/>
+                                      <Component id="erase" alignment="0" min="-2" pref="177" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane1" min="-2" pref="378" max="-2" attributes="0"/>
+                                  <EmptySpace min="0" pref="38" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jLabel1" min="-2" pref="331" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="208" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="extra" min="-2" pref="370" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="478" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="78" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="trans1" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="lan1" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="trans2" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="close" alignment="3" min="-2" pref="40" max="-2" attributes="0"/>
+                      <Component id="lan2" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="trans3" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="lan3" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="trans4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="lan4" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="trans5" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                              <Component id="lan5" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                              <Component id="add" alignment="3" min="-2" pref="40" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="trans6" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                              <Component id="lan6" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="trans7" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                                      <Component id="lan7" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="trans8" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                                      <Component id="lan8" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="erase" min="-2" pref="40" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="trans9" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                              <Component id="lan9" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="trans10" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                              <Component id="lan10" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jScrollPane1" min="-2" pref="175" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="extra" min="-2" pref="32" max="-2" attributes="0"/>
+                  <EmptySpace pref="41" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="36" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="TRANSLATIONS"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans9">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans1">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trans1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans10">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans3">
+        </Component>
+        <Component class="javax.swing.JButton" name="close">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Close"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="closeActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="add">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Add"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="addActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="erase">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Erase fields"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="eraseActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="trans6">
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan1">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan3">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan3ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan4">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan4ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan2">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan5">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan5ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan7">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan7ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan8">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan8ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan9">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan9ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan6">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan6ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="lan10">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="11">
+                <StringItem index="0" value="br"/>
+                <StringItem index="1" value="de"/>
+                <StringItem index="2" value="es"/>
+                <StringItem index="3" value="fa"/>
+                <StringItem index="4" value="fr"/>
+                <StringItem index="5" value="hr"/>
+                <StringItem index="6" value="it"/>
+                <StringItem index="7" value="ja"/>
+                <StringItem index="8" value="nl"/>
+                <StringItem index="9" value="pt"/>
+                <StringItem index="10" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lan10ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="extra">
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="In case there are more than 10 translations&#xa;an extra text field is provided&#xa;&#xa;Enter (all) other extra translation(s) &#xa;followed by the language like this&#xa;&#xa;translation;languageprefix/&#xa;i.e: the translation of argentina in french is&#xa;Argentine;fr/"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
